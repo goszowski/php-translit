@@ -16,6 +16,6 @@
         "php": ">=5.2.0"
     },
     "autoload": {
-        "psr-4": { "Ashtokalo\\Translit\\": "src/" }
+        "psr-4": { "Ashtokalo\\Translit\\": "./" }
     }
 }
