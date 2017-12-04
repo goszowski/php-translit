@@ -1,4 +1,5 @@
 <?php
+namespace Ashtokalo\Translit;
 
 /**
  * Translit
