@@ -1,4 +1,5 @@
 <?php
+namespace Ashtokalo\Translit;
 
 /**
  * Transliteration data for Georgian (KA)
